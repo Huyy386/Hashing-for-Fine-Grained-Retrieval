@@ -24,6 +24,9 @@
 6. A Novel Semantics-Preserving Hashing for Fine-Grained Image Retrieval.
    Han Sun, Yejia Fan, Jiaquan Shen, Ningzhong Liu, Dong Liang, Huiyu Zhou,IEEE Access 8: 26199-26209 (2020).[paper](https://ieeexplore.ieee.org/document/8974217)
 
+7. Feature Pyramid Hashing
+   Yifan Yang, Libing Geng, Hanjiang Lai, Yan Pan, Jian Yin.ICMR 2019: 114-122.[paper](https://arxiv.org/abs/1904.02325)
+
 ...
 
 ## Feature extraction model
